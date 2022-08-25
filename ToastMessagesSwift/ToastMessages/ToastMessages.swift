@@ -1,9 +1,6 @@
-//
+////  Created by santhosh
 //  ToastMessages.swift
-//  VNC DealerDirect
-//
-//  Created by santhosh on 12/03/21.
-//
+
 
 import Foundation
 

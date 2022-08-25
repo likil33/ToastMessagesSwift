@@ -1,8 +1,7 @@
 //
 //  SceneDelegate.swift
 //  ToastMessagesSwift
-//
-//  Created by Santhosh K on 25/08/22.
+
 //
 
 import UIKit

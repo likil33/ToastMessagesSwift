@@ -1,8 +1,5 @@
 
 //  Created by santhosh
-//  Copyright © 2020 Nextbrain. All rights reserved.
-//
-
 
 
 
